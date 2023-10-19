@@ -1,1 +1,2 @@
 # AIRBNB-TABLEAU-PROJECT
+Airbnb is a popular online marketplace that allows people to rent out their properties or spare rooms to guests. It was founded in 2008 and is headquartered in San Francisco, California. Airbnb operates in over 220 countries and regions worldwide, with over 7 million listings1. You can visit the Airbnb website to search for vacation homes, apartments, and other types of accommodations that are available for rent. 
